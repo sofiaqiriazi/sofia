@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://sofiaqiriazi.github.io/sofia/index.html" resolutions="1x,2x" timestamp="1480504516989">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://sofiaqiriazi.github.io/sofia/index.html" resolutions="1x,2x" timestamp="1480521024407">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_base.css" crc="409412546" ref="w3:index:game_of_life:cyclops:brain_diver:convex_hull:new_tech:warehouse:search_engine:websites:space_ship:alice:nightlies:virtual_bar:programs:klm"/>
-    <file name="nomq_preview_master_base.css" crc="145465778" ref="w3:index:game_of_life:cyclops:brain_diver:convex_hull:new_tech:warehouse:search_engine:websites:space_ship:alice:nightlies:virtual_bar:programs:klm"/>
+    <file name="master_base.css" crc="343352629" ref="w3:index:game_of_life:cyclops:brain_diver:convex_hull:new_tech:warehouse:search_engine:websites:space_ship:alice:nightlies:virtual_bar:programs:klm"/>
+    <file name="nomq_preview_master_base.css" crc="8756116" ref="w3:index:game_of_life:cyclops:brain_diver:convex_hull:new_tech:warehouse:search_engine:websites:space_ship:alice:nightlies:virtual_bar:programs:klm"/>
     <file name="w3.css" crc="302761795" ref="w3"/>
     <file name="nomq_w3.css" crc="284310521" ref="w3"/>
     <file name="index.css" crc="3218697" ref="index"/>
     <file name="nomq_index.css" crc="481857174" ref="index"/>
     <file name="game_of_life.css" crc="142794996" ref="game_of_life"/>
     <file name="nomq_game_of_life.css" crc="148865311" ref="game_of_life"/>
-    <file name="cyclops.css" crc="259010661" ref="cyclops"/>
+    <file name="cyclops.css" crc="312031986" ref="cyclops"/>
     <file name="nomq_cyclops.css" crc="68647800" ref="cyclops"/>
-    <file name="brain_diver.css" crc="3931297918" ref="brain_diver"/>
-    <file name="nomq_brain_diver.css" crc="475019407" ref="brain_diver"/>
+    <file name="brain_diver.css" crc="4193264040" ref="brain_diver"/>
+    <file name="nomq_brain_diver.css" crc="236393774" ref="brain_diver"/>
     <file name="convex_hull.css" crc="525794196" ref="convex_hull"/>
     <file name="nomq_convex_hull.css" crc="92402611" ref="convex_hull"/>
     <file name="new_tech.css" crc="149912356" ref="new_tech"/>
@@ -68,8 +68,8 @@
     <file name="convex_hull-crop-u27368.jpg" crc="453529539" ref="index"/>
     <file name="lhcb-crop-u27499.jpg" crc="3796498647" ref="index"/>
     <file name="warehouse-crop-u27746.jpg" crc="151644201" ref="index"/>
-    <file name="github48x48.png" crc="4020552644" seo="true" ref="index"/>
-    <file name="github48x48_2x.png" crc="3874479854" seo="true" ref="index"/>
+    <file name="github48x48.png" crc="4020552644" seo="true" ref="index:brain_diver"/>
+    <file name="github48x48_2x.png" crc="3874479854" seo="true" ref="index:brain_diver"/>
     <file name="linkedin.png" crc="3991133649" seo="true" ref="index:programs:search_engine:convex_hull:game_of_life:space_ship:new_tech:brain_diver:virtual_bar:klm:alice:websites:cyclops:w3:nightlies:warehouse"/>
     <file name="linkedin_2x.png" crc="66267468" seo="true" ref="index:programs:search_engine:convex_hull:game_of_life:space_ship:new_tech:brain_diver:virtual_bar:klm:alice:websites:cyclops:w3:nightlies:warehouse"/>
     <file name="cv.png" crc="3854092498" seo="true" ref="index:programs:search_engine:convex_hull:game_of_life:space_ship:new_tech:brain_diver:virtual_bar:klm:alice:websites:cyclops:w3:nightlies:warehouse"/>
@@ -103,15 +103,15 @@
     <file name="bike-crop-u37789.jpg" crc="62524961" ref="index"/>
     <file name="bike-crop-u37789_2x.jpg" crc="475587332" ref="index"/>
     <file name="warehouse-crop-u37798.jpg" crc="3936881274" ref="index"/>
-    <file name="github39x39.png" crc="158526003" seo="true" ref="index"/>
-    <file name="github39x39_2x.png" crc="49087836" seo="true" ref="index"/>
-    <file name="linkedin39x39.png" crc="4218198653" seo="true" ref="index"/>
-    <file name="linkedin39x39_2x.png" crc="66267468" seo="true" ref="index"/>
+    <file name="github39x39.png" crc="158526003" seo="true" ref="index:brain_diver"/>
+    <file name="github39x39_2x.png" crc="49087836" seo="true" ref="index:brain_diver"/>
+    <file name="linkedin39x39.png" crc="4218198653" seo="true" ref="index:brain_diver"/>
+    <file name="linkedin39x39_2x.png" crc="66267468" seo="true" ref="index:brain_diver"/>
     <file name="opti-crop-u37006.jpg" crc="3974931509" ref="index"/>
     <file name="opti-crop-u37006_2x.jpg" crc="3934058229" ref="index"/>
     <file name="alicepre-crop-u37199.jpg" crc="3777054945" ref="index"/>
-    <file name="cv39x39.png" crc="4167019571" seo="true" ref="index"/>
-    <file name="cv39x39_2x.png" crc="4073044765" seo="true" ref="index"/>
+    <file name="cv39x39.png" crc="4167019571" seo="true" ref="index:brain_diver"/>
+    <file name="cv39x39_2x.png" crc="4073044765" seo="true" ref="index:brain_diver"/>
     <file name="bciback385x268.jpg" crc="4254219787" seo="true" ref="index"/>
     <file name="opti-crop-u40141.jpg" crc="3986746067" ref="index"/>
     <file name="opti-crop-u40141_2x.jpg" crc="4048715965" ref="index"/>
@@ -126,12 +126,12 @@
     <file name="bike-crop-u40345_2x.jpg" crc="4102977954" ref="index"/>
     <file name="unhcr-crop-u40806.jpg" crc="4001042150" ref="index"/>
     <file name="warehouse-crop-u40809.jpg" crc="3998301240" ref="index"/>
-    <file name="github38x37.png" crc="372131963" seo="true" ref="index"/>
-    <file name="github38x37_2x.png" crc="4181316354" seo="true" ref="index"/>
-    <file name="linkedin38x38.png" crc="386858136" seo="true" ref="index"/>
-    <file name="linkedin38x38_2x.png" crc="3885209799" seo="true" ref="index"/>
-    <file name="cv38x38.png" crc="479509131" seo="true" ref="index"/>
-    <file name="cv38x38_2x.png" crc="516316937" seo="true" ref="index"/>
+    <file name="github38x37.png" crc="372131963" seo="true" ref="index:brain_diver"/>
+    <file name="github38x37_2x.png" crc="4181316354" seo="true" ref="index:brain_diver"/>
+    <file name="linkedin38x38.png" crc="386858136" seo="true" ref="index:brain_diver"/>
+    <file name="linkedin38x38_2x.png" crc="3885209799" seo="true" ref="index:brain_diver"/>
+    <file name="cv38x38.png" crc="479509131" seo="true" ref="index:brain_diver"/>
+    <file name="cv38x38_2x.png" crc="516316937" seo="true" ref="index:brain_diver"/>
     <file name="searchengine-crop-u46496.jpg" crc="4111309425" ref="programs"/>
     <file name="convex_hull-crop-u46502.jpg" crc="453529539" ref="programs"/>
     <file name="editedspace-crop-u46514.jpg" crc="530349231" ref="programs"/>
@@ -162,8 +162,8 @@
     <file name="word-cloud-large385x193_2x.jpg" crc="3865867071" seo="true" ref="search_engine"/>
     <file name="biffer385x174.jpg" crc="4021898600" seo="true" ref="search_engine"/>
     <file name="bfs386x232.png" crc="4215889024" seo="true" ref="search_engine"/>
-    <file name="github35x35.png" crc="156611378" seo="true" ref="search_engine:cyclops"/>
-    <file name="github35x35_2x.png" crc="3933908772" seo="true" ref="search_engine:cyclops"/>
+    <file name="github35x35.png" crc="156611378" seo="true" ref="search_engine:brain_diver"/>
+    <file name="github35x35_2x.png" crc="3933908772" seo="true" ref="search_engine:brain_diver"/>
     <file name="convex.jpg" crc="3845880242" seo="true" ref="convex_hull"/>
     <file name="convex1.jpg" crc="4280312200" seo="true" ref="convex_hull"/>
     <file name="convex2.jpg" crc="4015600741" seo="true" ref="convex_hull"/>
@@ -214,13 +214,9 @@
     <file name="bciback-crop-u18520_2x.jpg" crc="372971271" ref="brain_diver"/>
     <file name="diver.png" crc="19404885" seo="true" ref="brain_diver"/>
     <file name="diver_2x.png" crc="201528739" seo="true" ref="brain_diver"/>
-    <file name="screen.png" crc="3788856914" seo="true" ref="brain_diver"/>
-    <file name="screen_2x.png" crc="9246873" seo="true" ref="brain_diver"/>
     <file name="presentation.png" crc="3805953753" seo="true" ref="brain_diver:virtual_bar:klm:alice:cyclops:w3:nightlies:warehouse"/>
     <file name="diver928x928.png" crc="186187475" seo="true" ref="brain_diver"/>
     <file name="diver928x928_2x.png" crc="4294888463" seo="true" ref="brain_diver"/>
-    <file name="screen928x696.png" crc="3835672610" seo="true" ref="brain_diver"/>
-    <file name="screen928x696_2x.png" crc="12740920" seo="true" ref="brain_diver"/>
     <file name="bciback-crop-u185202.jpg" crc="3972751403" ref="brain_diver"/>
     <file name="bciback-crop-u18520_2x2.jpg" crc="305037867" ref="brain_diver"/>
     <file name="presentation47x49.png" crc="3932670310" seo="true" ref="brain_diver"/>
@@ -228,8 +224,6 @@
     <file name="bciback-crop-u18520_2x3.jpg" crc="3813909642" ref="brain_diver"/>
     <file name="diver385x385.png" crc="3903437337" seo="true" ref="brain_diver"/>
     <file name="diver385x385_2x.png" crc="518574072" seo="true" ref="brain_diver"/>
-    <file name="screen385x289.png" crc="4192679682" seo="true" ref="brain_diver"/>
-    <file name="screen385x289_2x.png" crc="237266038" seo="true" ref="brain_diver"/>
     <file name="presentation34x36.png" crc="504905569" seo="true" ref="brain_diver"/>
     <file name="maxresdefault-crop-u18908.jpg" crc="147481576" ref="virtual_bar"/>
     <file name="optitrack2-crop-u18905.jpg" crc="3993481987" ref="virtual_bar"/>
@@ -342,6 +336,12 @@
     <file name="infobikesmall-crop-u59244.jpg" crc="4047454084" ref="cyclops"/>
     <file name="infobikesmall-crop-u592442.jpg" crc="4220167447" ref="cyclops"/>
     <file name="infobikesmall-crop-u592443.jpg" crc="4077704804" ref="cyclops"/>
+    <file name="newscreen.png" crc="3891906038" seo="true" ref="brain_diver"/>
+    <file name="newscreen_2x.png" crc="3993064555" seo="true" ref="brain_diver"/>
+    <file name="newscreen928x696.png" crc="4129513130" seo="true" ref="brain_diver"/>
+    <file name="newscreen928x696_2x.png" crc="3854130898" seo="true" ref="brain_diver"/>
+    <file name="newscreen411x308.png" crc="349413357" seo="true" ref="brain_diver"/>
+    <file name="newscreen411x308_2x.png" crc="531155331" seo="true" ref="brain_diver"/>
   </folder>
   <file name="index.html" crc="3964812365" seo="true" mt="1480504462204" redirect="true"/>
   <file name="programs.html" crc="4211922515" seo="true" mt="1480501654349" redirect="true"/>
@@ -350,12 +350,12 @@
   <file name="game_of_life.html" crc="4140648347" seo="true" mt="1480503974292" redirect="true"/>
   <file name="space_ship.html" crc="4040486612" seo="true" mt="1480501654349" redirect="true"/>
   <file name="new_tech.html" crc="163954641" seo="true" mt="1480501654349" redirect="true"/>
-  <file name="brain_diver.html" crc="4082990885" seo="true" mt="1480501654349" redirect="true"/>
+  <file name="brain_diver.html" crc="393472474" seo="true" mt="1480521001150" redirect="true"/>
   <file name="virtual_bar.html" crc="528540235" seo="true" mt="1480501654349" redirect="true"/>
   <file name="klm.html" crc="165584174" seo="true" mt="1480501654349" redirect="true"/>
   <file name="alice.html" crc="155260899" seo="true" mt="1480501654349" redirect="true"/>
   <file name="websites.html" crc="4236639613" seo="true" mt="1480501654349" redirect="true"/>
-  <file name="cyclops.html" crc="18405102" seo="true" mt="1480504513906" redirect="true"/>
+  <file name="cyclops.html" crc="4060100378" seo="true" mt="1480521021360" redirect="true"/>
   <file name="w3.html" crc="282299674" seo="true" mt="1480501654349" redirect="true"/>
   <file name="nightlies.html" crc="467710185" seo="true" mt="1480501654349" redirect="true"/>
   <file name="warehouse.html" crc="457345601" seo="true" mt="1480501654349" redirect="true"/>
